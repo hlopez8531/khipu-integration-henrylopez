@@ -19,7 +19,7 @@ Simular el flujo de cobro y pago utilizando DemoBank como parte del proceso de s
 
 ## 📷 Imágenes del proceso
 
-Las capturas del proceso completo están disponibles en la carpeta `/imagenes`.
+Las capturas del proceso completo están disponibles en la carpeta [imagenes](imagenes).
 
 ## 📄 Documentación adicional
 
