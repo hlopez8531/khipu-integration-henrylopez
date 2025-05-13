@@ -21,7 +21,8 @@ Simular el flujo de cobro y pago utilizando DemoBank como parte del proceso de s
 
 Las capturas del proceso completo están disponibles en la carpeta [imagenes](imagenes).
 
-## 📄 Documentación adicional
+📄 **Documentación adicional**
 
 Se incluye el archivo [Resumen_Integracion_Khipu_Henry_Lopez.pdf](Resumen_Integracion_Khipu_Henry_Lopez.pdf), que detalla las etapas del proceso de integración realizado en el entorno de pruebas de Khipu. Las observaciones personales serán comentadas directamente durante la entrevista técnica.
+
 ---
