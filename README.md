@@ -23,6 +23,6 @@ Las capturas del proceso completo están disponibles en la carpeta [imagenes](im
 
 ## 📄 Documentación adicional
 
-Se adjunta también un archivo con el resumen del proceso (`Resumen_Integracion_Khipu_Henry_Lopez.docx`) que detalla cada etapa y observaciones personales sobre la interfaz y la experiencia.
+Se incluye el archivo Resumen_Integracion_Khipu_Henry_Lopez.pdf, que detalla las etapas del proceso de integración realizado en el entorno de pruebas de Khipu, como preparación para la entrevista técnica.
 
 ---
