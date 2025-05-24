@@ -39,8 +39,8 @@ Demostrar el flujo completo de integración API:
 | Rol                        | Identidad usada                          |
 |---------------------------|-------------------------------------------|
 | Desarrollador / Intermediario | `henry.lopez.h@gmail.com`              |
-| Comercio / Empresa         | `henry_16_31@hotmail.com` (cuenta ficticia de cobro) |
-| Cliente / Pagador          | `henry.lopez.h@hotmail.com` (Esmeralda Gravlin)    |
+| Comercio / Empresa         | `henry.lopez.h@gmail.com` (cuenta ficticia de cobro) |
+| Cliente / Pagador          | `henry_16_31@hotmail.com` (Esmeralda Gravlin)    |
 
 ---
 
