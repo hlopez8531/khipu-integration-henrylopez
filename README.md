@@ -1,28 +1,60 @@
 # Integración de prueba – Khipu (DemoBank)
 
-Este repositorio contiene el detalle del proceso de integración de pagos utilizando el entorno de pruebas de Khipu en modo desarrollador.
+Este repositorio contiene la simulación técnica del proceso de integración de pagos utilizando el entorno de pruebas (sandbox) de Khipu y DemoBank, como parte de un proceso de selección.
 
-## 📌 Objetivo
+---
 
-Simular el flujo de cobro y pago utilizando DemoBank como parte del proceso de selección para el cargo de Customer Success en Khipu.
+## 🎯 Objetivo
 
-## ✅ Pasos realizados
+Demostrar el flujo completo de integración API:
+- Generación de cobro
+- Envío de enlace de pago
+- Pago simulado desde cliente
+- Confirmación de pago
 
-1. Creación de cuenta en modo desarrollador.
-2. Configuración de datos de facturación, contacto y comercio.
-3. Acceso a las credenciales API (ID y llave).
-4. Generación de un cobro en DemoBank:
-   - Monto: $3.000
-   - Código identificador: TEST-001
-5. Simulación del pago exitoso desde una cuenta ficticia.
-6. Verificación del estado pagado en el portal de Khipu.
+---
 
-## 📷 Imágenes del proceso
+## 🔄 Pasos realizados
 
-Las capturas del proceso completo están disponibles en la carpeta [imagenes](imagenes).
+1. Ingreso a la cuenta de desarrollador en el portal de Khipu.
+2. Creación de un nuevo cobro por $3.000 dirigido al cliente ficticio.
+3. Envío automático del enlace de pago al correo del cliente.
+4. Acceso al `payment_url` desde la cuenta del cliente.
+5. Simulación del pago utilizando DemoBank.
+6. Confirmación automática del cobro en la cuenta del desarrollador.
+7. Visualización del comprobante y del estado de cobro como “pagado”.
 
-📄 **Documentación adicional**
+---
 
-Se incluye el archivo [Resumen_Integracion_Khipu_Henry_Lopez.pdf](Resumen_Integracion_Khipu_Henry_Lopez.pdf), que detalla las etapas del proceso de integración realizado en el entorno de pruebas de Khipu. Las observaciones personales serán comentadas directamente durante la entrevista técnica.
+## 🧪 Entorno de prueba utilizado
+
+- Plataforma: [https://khipu.com](https://khipu.com)
+- Modo: **Desarrollador (sandbox)**
+- Banco simulado: **DemoBank**
+
+---
+
+## 🧩 Roles simulados
+
+| Rol                        | Identidad usada                          |
+|---------------------------|-------------------------------------------|
+| Desarrollador / Intermediario | `henry.lopez.h@gmail.com`              |
+| Comercio / Empresa         | `henry_16_31@hotmail.com` (cuenta ficticia de cobro) |
+| Cliente / Pagador          | `henry.lopez.h@hotmail.com` (Esmeralda Gravlin)    |
+
+---
+
+## 🎬 Video de la simulación
+
+📺 Ver el video completo con subtítulos aquí:  
+🔗 [ENLACE AQUÍ – reemplaza con tu link de YouTube o Google Drive]
+
+---
+
+## 📝 Notas
+
+- La simulación fue realizada exclusivamente en entorno sandbox de Khipu.
+- No se utilizaron cuentas productivas reales ni se procesaron transacciones monetarias reales.
+- Todos los datos (correos, nombres, montos) fueron usados solo con fines demostrativos.
 
 ---
