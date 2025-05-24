@@ -47,8 +47,7 @@ Demostrar el flujo completo de integración API:
 ## 🎬 Video de la simulación
 
 📺 Ver el video completo con subtítulos aquí:  
-🔗 [ENLACE AQUÍ – reemplaza con tu link de YouTube o Google Drive]
-
+🔗 [Ver en Google Drive](https://drive.google.com/file/d/1AE1MaDaFR8K_2J0q59gRglFza1y2Dcad/view?usp=sharing)
 ---
 
 ## 📝 Notas
