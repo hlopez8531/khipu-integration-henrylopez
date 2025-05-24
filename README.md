@@ -50,6 +50,12 @@ Demostrar el flujo completo de integración API:
 🔗 [Ver en Google Drive](https://drive.google.com/file/d/1AE1MaDaFR8K_2J0q59gRglFza1y2Dcad/view?usp=sharing)
 ---
 
+## 📦 Request utilizado
+
+Se incluye el contenido del request utilizado para crear el cobro en el entorno sandbox.
+
+📄 Ver archivo: [cobro_request.txt](./cobro_request.txt)
+
 ## 📝 Notas
 
 - La simulación fue realizada exclusivamente en entorno sandbox de Khipu.
