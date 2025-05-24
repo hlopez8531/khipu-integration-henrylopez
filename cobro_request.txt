@@ -1,0 +1,8 @@
+{
+  "subject": "Simulación técnica - Proceso de selección",
+  "amount": 3000,
+  "currency": "CLP",
+  "payer_email": "henry_16_31@hotmail.com",
+  "return_url": "https://miapp.cl/confirmacion",
+  "cancel_url": "https://miapp.cl/cancelado"
+}
